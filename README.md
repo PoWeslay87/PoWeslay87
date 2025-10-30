@@ -6,4 +6,4 @@ I'm **PoWeslay87**, welcome to my GitHub profile! 🚀
 - 💻 Passionate about web development and creative coding  
 - ⚡ Fun fact: I enjoy football ⚽ and coding late at night 🌙  
 
-📫 Reach me on: [Instagram](https://instagram.com/username) | [LinkedIn](https://linkedin.com/in/username)
+📫 Reach me on: [Instagram](https://www.instagram.com/yarinap_weslay) | [LinkedIn](https://linkedin.com/in/username)
