@@ -6,10 +6,10 @@ I'm **PoWeslay87**, welcome to my GitHub profile! 🚀
 - 💻 Passionate about web development and creative coding  
 - ⚡ Fun fact: I enjoy football ⚽ and coding late at night 🌙  
 
-<a href="https://www.instagram.com/yarinap_weslay" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" 
-       width="24" height="24" alt="Instagram"/>
-</a>
+### 📫 Connect with me
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/yarinap_weslay)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PoWeslay87)
+
 
 
 
